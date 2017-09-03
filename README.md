@@ -1,3 +1,2 @@
-# PayingCloud API 文档
+# API Document for IBS Payment Gateway
 
-https://payingcloud.github.io/payingcloud-api-doc
